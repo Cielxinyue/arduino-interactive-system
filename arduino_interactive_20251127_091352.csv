@@ -1,0 +1,14 @@
+Command,Arduino Response
+1,[LED] red ON
+0,[LED] ALL OFF
+3,[LED] blue ON
+4,[LED] Running LEDTEST: red -> green -> blue [LED] ALL OFF [LED] LEDTEST completed
+6,***LED_Matrix_test***
+Remote,***Remote control function***
+Remote,Invalid code received
+Remote,00Invalid code received
+Remote,Invalid code received
+Remote,5
+Remote,1000+25=51025
+Remote,1000+25=1025
+Remote,100+25=125

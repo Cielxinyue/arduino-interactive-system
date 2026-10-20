@@ -1,0 +1,11 @@
+Command,Arduino Response
+1,[LED] red ON
+0,[LED] ALL OFF
+2,[LED] green ON
+0,[LED] ALL OFF
+3,[LED] blue ON
+0,[LED] ALL OFF
+4,[LED] Running LEDTEST: red -> green -> blue [LED] ALL OFF [LED] LEDTEST completed
+Remote,***Remote control function***
+Remote,100+25=125
+Remote,***End Remote Control function***

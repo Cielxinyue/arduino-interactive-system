@@ -1,0 +1,6 @@
+Command,Arduino Response
+6,***LED_Matrix_test***
+1,[LED] red ON
+2,[LED] green ON
+3,[LED] blue ON
+4,[LED] Running LEDTEST: red -> green -> blue [LED] ALL OFF [LED] LEDTEST completed
